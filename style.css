@@ -1,0 +1,15 @@
+#format{
+    border: solid brown;
+
+    padding: 20px;
+    margin: 5%;
+
+    p{
+        border: solid 1px;
+        border-color: blue;
+    }
+
+
+
+
+}
